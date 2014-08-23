@@ -1,7 +1,6 @@
 # Polymer Google Apis Web Component Gem
 
-The Paper elements are a set of UI elements that implement the [material design system](https://github.com/GoogleWebComponents/google-apis).
-
+This is [Google APIs web component](https://github.com/GoogleWebComponents/google-apis) packed as a Gem.
 
 
 ## Installation
